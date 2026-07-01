@@ -1,3 +1,4 @@
+// Q1: Write a C program to find addition of 2 variables.
 #include<stdio.h>
 int main()
 {
@@ -5,4 +6,5 @@ int main()
 
     s=num1+num2;
     printf("Addition is= %d",s);
+    return 0;
 }

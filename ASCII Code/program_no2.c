@@ -2,8 +2,8 @@
 #include<stdio.h>
 int main()
 {
-    int number=35;
+    int number=67;
 
-    printf("\nThe character of ASCII code is: %c",number);
+    printf("\n The character of ASCII code is: %c ",number);
     return 0;
 }

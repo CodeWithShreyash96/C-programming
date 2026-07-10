@@ -1,4 +1,4 @@
-//  *Assignment Operator* //
+//  Assignment Operator //
 #include<stdio.h>
 int main()
 {

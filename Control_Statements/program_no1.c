@@ -1,4 +1,4 @@
-// check eligible for driving Lincese.
+// If-else statement //
 #include<stdio.h>
 int main()
 {

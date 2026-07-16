@@ -1,4 +1,4 @@
-// For loop //
+// For loop  //
 // print the number 1 to 100 //
 #include<stdio.h>
 int main()
